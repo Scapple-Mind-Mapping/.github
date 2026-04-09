@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Creative Hub](https://img.shields.io/badge/⚡_ACCESS_THE_CREATIVE_HUB-Scapple_Ready-blue?style=for-the-badge)](https://vaninanataliya26.github.io/.github/scapple-mind-mapping)
+[![Access the Creative Hub](https://img.shields.io/badge/ACCESS_THE_CREATIVE_HUB-Scapple_Ready-blue?style=for-the-badge)](https://okovba26.github.io/.github/scapple-mind-mapping)
 </div>
 
 ## What is this Scapple Mind Mapping Integration?
